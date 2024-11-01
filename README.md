@@ -2,7 +2,7 @@
 
 Welcome to Mediguide, an innovative and user-friendly medical care application designed to help users manage their health with ease. This platform focuses on pill reminders, doctor appointments, and video consultations, making healthcare more accessible for everyone.
 
-Explore the design prototype on Figma: [Mediguide Design Prototype](https://www.figma.com/file/ePvrIDNDe6U7K8yyGQn0c8/Untitled?type=design&node-id=0%3A1&mode=design&t=S44tOipVDmG7eTKs-1 )
+Explore the design prototype on Figma: [Mediguide Design File](https://www.figma.com/file/ePvrIDNDe6U7K8yyGQn0c8/Untitled?type=design&node-id=0%3A1&mode=design&t=S44tOipVDmG7eTKs-1 )
 
 📋 About Mediguide
 
